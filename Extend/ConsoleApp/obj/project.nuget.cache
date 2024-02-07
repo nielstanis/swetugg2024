@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XxAWMg+fp0RHYVsS+sw7SFjkHDAOLcsmr85AtV3tRtP66LCtqU/jeTRWmI9qDekZdUa9+hcc4QXMjVaHpxw/IQ==",
+  "success": true,
+  "projectFilePath": "/Users/nelson/github/swetugg2024/Extend/ConsoleApp/ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/nelson/.nuget/packages/wasmtime/17.0.0/wasmtime.17.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

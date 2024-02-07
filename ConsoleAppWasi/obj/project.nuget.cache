@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hJD85bedW0xsX1RDtwv0vLWFw3uKSt6yBO0wiiHmr8Q5YZMizUVkPMBONcHyHB9AhzPzRfmV2WU4T/UynrvrlA==",
+  "success": true,
+  "projectFilePath": "/Users/nelson/github/swetugg2024/ConsoleAppWasi/ConsoleAppWasi.csproj",
+  "expectedPackageFiles": [
+    "/Users/nelson/.nuget/packages/microsoft.net.illink.tasks/8.0.0/microsoft.net.illink.tasks.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
